@@ -1,6 +1,6 @@
 {
   "name": "mailvelope-keyserver",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
@@ -25,14 +25,14 @@
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@hapi/hapi": "^21.4.8",
-    "@hapi/inert": "^7.1.0",
+    "@hapi/hapi": "^21.4.9",
+    "@hapi/inert": "^7.1.1",
     "@hapi/vision": "^7.0.3",
-    "dotenv": "^17.4.0",
+    "dotenv": "^17.4.2",
     "ejs": "^3.1.10",
     "hapi-i18n": "^3.0.1",
     "mongodb": "^6.21.0",
-    "nodemailer": "^8.0.4",
+    "nodemailer": "^8.0.7",
     "openpgp": "^5.11.3",
     "winston": "^3.19.0",
     "winston-syslog": "^2.7.1"
@@ -43,10 +43,10 @@
     "chai": "^6.2.2",
     "chai-as-promised": "^8.0.2",
     "eslint": "^9.39.4",
-    "globals": "^17.4.0",
+    "globals": "^17.6.0",
     "jquery": "^3.7.1",
-    "mocha": "^11.7.5",
-    "sinon": "^21.0.3",
+    "mocha": "^11.7.6",
+    "sinon": "^21.1.2",
     "supertest": "^7.2.2"
   }
 }
